@@ -1,6 +1,6 @@
 UTS Kecerdasan Buatan Kelas D
 Nama/NIM Anggota Kelompok:
-1. Rio Hotasy Parulian Simanujuntak / 21120124140144
+1. Rio Hotasy Parulian Simanjuntak / 21120124140144
 2. Lionel Jeremi Pinondang S. / 21120124130067
 3. Finodi / 21120124140138
 4. I Dewa Gede Agung Oka / 21120124140149
